@@ -8,7 +8,7 @@ This project addresses the challenge of customer churn within a banking environm
 ### 📂 Project Database
 You can view the full Bank CRM Database here:
 
-[Access Bank CRM Database (Excel)](https://drive.google.com/drive/folders/1oykFSe4CWfLZCrLzlKm5kiIZTEJkxHUR)
+[Access Bank CRM Database](https://drive.google.com/drive/folders/1oykFSe4CWfLZCrLzlKm5kiIZTEJkxHUR)
 
 # 🎯 Business ObjectivesUnderstand 
 
