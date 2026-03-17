@@ -1,1 +1,2 @@
-# Bank_CRM_PowerBI-Project
+# Bank CRM Analysis: Customer Retention & Risk Analysis
+ - A Data-Driven Story using SQL Analytics & Business Intelligence
