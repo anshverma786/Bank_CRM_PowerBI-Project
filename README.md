@@ -5,6 +5,11 @@ A Data-Driven Story using SQL Analytics & Business Intelligence
 
 This project addresses the challenge of customer churn within a banking environment. By analyzing a dataset of 10,000 customers, the study identifies high-risk segments, evaluates product engagement, and provides actionable, data-driven strategies to improve customer retention and protect capital.
 
+### 📂 Project Database
+You can view the full Bank CRM Database here:
+
+[Access Bank CRM Database (Excel)](https://drive.google.com/drive/folders/1oykFSe4CWfLZCrLzlKm5kiIZTEJkxHUR)
+
 # 🎯 Business ObjectivesUnderstand 
 
 - **Churn Patterns:** Analyze customer demographics and transaction behavior to identify why customers leave.
